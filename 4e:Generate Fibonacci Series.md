@@ -17,7 +17,7 @@ To write a Python program that generates the Fibonacci series up to a given numb
       Update a = b, b = c
 
 5.End the program.
-## 🧪Program
+## Program
 ```
 n = int(input())
 a, b = 0, 1
