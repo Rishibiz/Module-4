@@ -1,7 +1,6 @@
 ## Ex 4a:Dictionary Operations in Python: Merging Two Dictionaries
 ## Aim
 To write a Python program that merges **two dictionaries** and combines their key-value pairs.
-
 ## Algorithm
 1.Start the program.
 
