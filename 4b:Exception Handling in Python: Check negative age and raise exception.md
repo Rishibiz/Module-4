@@ -1,5 +1,4 @@
 # Ex 4b:Exception Handling in Python: Check negative age and raise exception
-
 ## Aim
 To write a Python program that checks whether the entered age is negative and raises an exception using the raise keyword.
 
