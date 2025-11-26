@@ -1,5 +1,4 @@
 # Ex 4d:Classes and Objects in Python: Multiplication & Floor Division using Class
-
 ## Aim
 To write a Python program using a class to perform multiplication or floor division based on user choice.
 
