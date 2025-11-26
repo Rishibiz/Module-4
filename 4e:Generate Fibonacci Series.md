@@ -1,5 +1,4 @@
 #  Ex 4e:Generate Fibonacci Series
-
 ## Aim
 To write a Python program that generates the Fibonacci series up to a given number of terms.
 
