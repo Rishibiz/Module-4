@@ -1,5 +1,4 @@
 # Ex 4c:File Handling in Python: Reverse file contents and save to another file
-
 ## Aim
 To write a Python script that reads the contents of a file, reverses the text, and saves the reversed content into another file.
 ## Algorithm
