@@ -59,6 +59,5 @@ while True:
 
 ## Output
 <img width="396" height="263" alt="image" src="https://github.com/user-attachments/assets/808a7e08-df86-42ab-bb5a-5f49cf174a18" />
-
 ## Result
 Thus, the Python program using a class and conditional statements successfully performed multiplication or floor division based on the user's choice.
