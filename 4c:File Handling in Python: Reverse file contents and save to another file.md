@@ -2,7 +2,6 @@
 ## Aim
 To write a Python script that reads the contents of a file, reverses the text, and saves the reversed content into another file.
 ## Algorithm
-
 1.Start the program.
 
 2.Create a function to write content into the input file.
